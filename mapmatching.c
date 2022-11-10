@@ -1,4 +1,4 @@
-// Trakm8 Map Matching v.0.4.21x4
+// Map Matching v.0.4.21x4
 
 /*
  * TODO
