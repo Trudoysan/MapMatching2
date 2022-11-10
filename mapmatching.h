@@ -1,4 +1,4 @@
-// Trakm8 Map Matching v.0.4.21x2
+// Map Matching v.0.4.21x2
 
 #ifndef _MAPMATCHING_H
 #define _MAPMATCHING_H
